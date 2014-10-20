@@ -185,7 +185,8 @@ namespace MonopolyGameSettings
             }
         }
 
-              //[TestMethod]
+   
+        //[TestMethod]
         //[DataSource("SettingsPlayerCount")]
         //[DeploymentItem("MonopolyGameSettings\\MonopolyGameTestTechnique.xlsx")]
         //public void NumberPlayersName()
